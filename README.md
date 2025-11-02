@@ -1,5 +1,4 @@
 # 🌐 Personal Portfolio
-
 A clean, responsive personal portfolio built with **HTML, CSS & JavaScript**.
 
 ## 🔗 Live Demo
